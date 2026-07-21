@@ -62,56 +62,44 @@ redirect_from:
 
 {: #publications .section-title .section-title-publication}
 
-<p><sup>*</sup> indicates equal contribution.</p>
+<p><sup>*</sup>: equal contribution.</p>
 
 <div class="publication-list">
 
 <div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2606.27499">DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection</a></div>
-<div class="pub-authors"><strong>Yujin Tang</strong>, Chenming Shang, Ruize Xu, Nikhil Singh.</div>
-<div class="pub-venue"><em>arXiv preprint</em>, 2026.</div>
+<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2026.3650927">An Improved Small Defect Classification System Using Image Patching Methodology on Aluminum Car Doors</a> [<strong style='color: blue'>SCIE</strong>]</div>
+<div class="pub-authors">Ugur Ercelik, <strong>Hyeonseok Jin</strong>, Longfei Li, Kyungbaek Kim.</div>
+<div class="pub-venue"><em>IEEE Access</em>, 2026.</div>
 </div>
 
 <div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2606.31050">Learning Video Dynamics with Predictive Differentiable Rendering</a></div>
-<div class="pub-authors"><strong>Yujin Tang</strong><sup>*</sup>, Tian Zhou<sup>*</sup>, Xin Lin, Cheng Tan, Yifan Hu, Rong Jin, Souyong Jin, Liang Sun.</div>
-<div class="pub-venue"><em>European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2026.</div>
+<div class="pub-title"><a href="https://doi.org/10.1177/20552076251393380">Enhancing deep learning models for predicting smoking status using clinical data in patients with chronic obstructive pulmonary disease</a> [<strong style='color: blue'>SCIE</strong>]</div>
+<div class="pub-authors">Sehun Cho, <strong>Hyeonseok Jin</strong>, Kyungbaek Kim, Sola Cho, Ja Yun Choi.</div>
+<div class="pub-venue"><em>Digital Health</em>, 2025.</div>
 </div>
 
 <div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2509.14181">Bridging past and future: Distribution-aware alignment for time series forecasting</a></div>
-<div class="pub-authors">Yifan Hu, Jie Yang, Tian Zhou, Peiyuan Liu, <strong>Yujin Tang</strong>, Rong Jin, Liang Sun.</div>
-<div class="pub-venue"><em>International Conference on Learning Representations</em> (<strong>ICLR</strong>), 2026.</div>
+<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2025.3623702">A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients With Chronic Obstructive Pulmonary Disease</a> [<strong style='color: blue'>SCIE</strong>]</div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong>, Ja Yun Choi, Sehyun Cho, Kyungbaek Kim.</div>
+<div class="pub-venue"><em>IEEE Access</em>, 2025.</div>
 </div>
 
 <div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2410.04733">Video Prediction Transformers without Recurrence or Convolution</a></div>
-<div class="pub-authors"><strong>Yujin Tang</strong>, Qi Lu, Xiangtai Li, Chao Ma, Ming-Hsuan Yang.</div>
-<div class="pub-venue"><em>Transactions on Machine Learning Research</em> (<strong>TMLR</strong>), 2026.</div>
+<div class="pub-title"><a href="https://scholar.google.com/scholar?oi=bibs&cluster=791506653268956817&btnI=1&hl=ko">A Study of Leaf Disease Classification via Token-guided GNN</a></div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong><sup>*</sup>, David J. Richter<sup>*</sup>, Kyungbaek Kim.</div>
+<div class="pub-venue"><em>The 14th International Conference on Smart Media & Applications</em> (SMA 2025), 2025.</div>
 </div>
 
 <div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2403.16536">VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting</a></div>
-<div class="pub-authors"><strong>Yujin Tang</strong>, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang.</div>
-<div class="pub-venue"><em>IEEE Conference on Computer Vision and Pattern Recognition Workshop</em> (<strong>CVPR Workshop</strong>), 2024.</div>
+<div class="pub-title"><a href="https://doi.org/10.48550/arXiv.2507.11550">Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal Traffic Prediction</a></div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong>, Geonmin Kim, Kyungbaek Kim.</div>
+<div class="pub-venue"><em>arXiv prepreint</em>, 2025.</div>
 </div>
 
 <div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2310.02676">PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting</a></div>
-<div class="pub-authors"><strong>Yujin Tang</strong>, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang.</div>
-<div class="pub-venue"><em>International Conference on Learning Representations Workshop</em> (<strong>ICLR Workshop</strong>), 2024.</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2310.00655">Patchmixer: A patch-mixing architecture for long-term time series forecasting</a></div>
-<div class="pub-authors">Zeying Gong, <strong>Yujin Tang</strong>, Junwei Liang.</div>
-<div class="pub-venue"><em>International Joint Conference on Artificial Intelligence Workshop</em> (<strong>IJCAI Workshop</strong>), 2024.</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-59713-9_26">Ovarian Cancer Early Diagnosis in Proteomics Data Using Composite Asymmetric Convolution</a></div>
-<div class="pub-authors">Cheng Yuan, <strong>Yujin Tang</strong> and Dahong Qian.</div>
-<div class="pub-venue"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<strong>MICCAI</strong>), 2020.</div>
+<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2025.3573639">DATC-STP: Towards Accurate yet Efficient Spatiotemporal Prediction with Transformer-style CNN</a> [<strong style='color: blue'>SCIE</strong>]</div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong> and Kyungbaek Kim.</div>
+<div class="pub-venue"><em>IEEE Access</em>, 2025.</div>
 </div>
 
 </div>
@@ -195,7 +183,7 @@ redirect_from:
   </div>
 </div>
 
-# Academic Service
+<!-- # Academic Service
 
 {: #academic-service .section-title .section-title-service}
 
@@ -227,4 +215,4 @@ redirect_from:
 - I was born in Dazhou, Sichuan Province. It is where my life began, and where my roots are.
 - My MBTI is INTJ (Introverted, Intuitive, Thinking, Judging).
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script> -->
