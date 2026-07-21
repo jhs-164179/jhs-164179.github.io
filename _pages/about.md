@@ -32,10 +32,10 @@ redirect_from:
 
 </div>
 
-<div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
+<!-- <div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
     <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration & Internship Opportunities</strong>
     <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <span style="background-color: #fed7d7; padding: 2px 6px; border-radius: 4px; font-weight: 700; color: #c53030;">AI Agent-related </span> summer internship opportunities based in the U.S. for 2027. Please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a> or <a href="mailto:yujin.tang.gr@dartmouth.edu" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">yujin.tang.gr@dartmouth.edu</a>.</p>
-</div>
+</div> -->
 
 # News
 
@@ -122,37 +122,36 @@ redirect_from:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/dartmouth-logo.png" alt="Dartmouth College Logo" loading="lazy">
+    <img src="images/KENTECH_logo.svg" alt="KENTECH Logo" loading="lazy">
   </div>
   <div class="content">
-    <div class="title">Dartmouth College</div>
-    <div class="subtitle">Ph.D. in Computer Science</div>
-    <div class="date">2025.09 - 2030.07 (expected)</div>
-    <div class="description">Advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, <a href="https://www.sahaslab.com/">SAHAS</a> Lab</div>
+    <div class="title">Korea Institute of Energy Technology (KENTECH)</div>
+    <div class="subtitle">Ph.D. in Energy AI</div>
+    <div class="date">2025.09 - Present</div>
+    <div class="description">Advised by Prof. <a href="https://scholar.google.co.kr/citations?user=MP9FW-YAAAAJ&hl=en">Seokju Lee</a>, <a href="https://view.kentech.ac.kr/">View Lab</a></div>
   </div>
 </div>
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/cuhksz-logo.png" alt="CUHKSZ Logo" loading="lazy">
+    <img src="images/CNU_logo.svg" alt="CNU Logo" loading="lazy">
   </div>
   <div class="content">
-    <div class="title">The Chinese University of Hong Kong, Shenzhen</div>
-    <div class="subtitle">M.Sc. in Data Science</div>
-    <div class="date">2021.09 - 2023.07</div>
-    <div class="description">Advised by Prof. <a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></div>
+    <div class="title">Chonnam National University</div>
+    <div class="subtitle">M.S. in AI Convergence</div>
+    <div class="date">2023.09 - 2025.08</div>
+    <div class="description">Advised by Prof. <a href="https://scholar.google.co.kr/citations?user=hRITYcMAAAAJ&hl=en&oi=ao">Kyungbaek Kim</a>, DNS Lab</div>
   </div>
 </div>
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/sjtu-logo.png" alt="SJTU Logo" loading="lazy">
+    <img src="images/CNU_logo.svg" alt="CNU Logo" loading="lazy">
   </div>
   <div class="content">
-    <div class="title">Shanghai Jiao Tong University</div>
-    <div class="subtitle">B.Eng. in Biomedical Engineering</div>
-    <div class="date">2017.09 - 2021.06</div>
-    <div class="description">Advised by Prof. <a href="https://bme.sjtu.edu.cn/En/FacultyDetail/41/">Dahong Qian</a></div>
+    <div class="title">Chonnam National University</div>
+    <div class="subtitle">B.S. in Computer Engineering</div>
+    <div class="date">2016.03 - 2023.02</div>
   </div>
 </div>
 

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yujin Tang"
+title                    : "Hyeonseok Jin"
 description              : ""
-repository               : "yyyujintang/yyyujintang.github.io"
+repository               : "jhs-164179/jhs-164179.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yujin Tang"
-  avatar           : "images/Dartmouth.jpg"
+  name             : "Hyeonseok Jin"
+  avatar           : "images/KENTECH_logo.svg"
   bio              : "I am rooted, but I flow."
-  location         : "NH, USA"
+  location         : "Naju, South Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=T41IQ1EAAAAJ"
-  email            : "tangyujin0275@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "ggyo003@kentech.ac.kr"
+  researchgate     : "https://www.researchgate.net/profile/Hyeonseok-Jin-2?ev=prf_overview"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yyyujintang"
+  github           : "jhs-164179"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/yujin-tang-542b321a7/"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "https://www.linkedin.com/in/hyeonseok-jin/"
+  dblp             : "https://dblp.org/pid/413/2256.html"
+  orcid            : "https://orcid.org/0009-0002-8271-6792"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yujintang99"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
