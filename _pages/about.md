@@ -58,52 +58,6 @@ redirect_from:
 </ul>
 </div>
 
-# Publications
-
-{: #publications .section-title .section-title-publication}
-
-<p><sup>*</sup>: equal contribution.</p>
-
-<div class="publication-list">
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2026.3650927">An Improved Small Defect Classification System Using Image Patching Methodology on Aluminum Car Doors</a> [<strong style='color: blue'>SCIE</strong>]</div>
-<div class="pub-authors">Ugur Ercelik, <strong>Hyeonseok Jin</strong>, Longfei Li, Kyungbaek Kim.</div>
-<div class="pub-venue"><em>IEEE Access</em>, 2026.</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://doi.org/10.1177/20552076251393380">Enhancing deep learning models for predicting smoking status using clinical data in patients with chronic obstructive pulmonary disease</a> [<strong style='color: blue'>SCIE</strong>]</div>
-<div class="pub-authors">Sehun Cho, <strong>Hyeonseok Jin</strong>, Kyungbaek Kim, Sola Cho, Ja Yun Choi.</div>
-<div class="pub-venue"><em>Digital Health</em>, 2025.</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2025.3623702">A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients With Chronic Obstructive Pulmonary Disease</a> [<strong style='color: blue'>SCIE</strong>]</div>
-<div class="pub-authors"><strong>Hyeonseok Jin</strong>, Ja Yun Choi, Sehyun Cho, Kyungbaek Kim.</div>
-<div class="pub-venue"><em>IEEE Access</em>, 2025.</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://scholar.google.com/scholar?oi=bibs&cluster=791506653268956817&btnI=1&hl=ko">A Study of Leaf Disease Classification via Token-guided GNN</a></div>
-<div class="pub-authors"><strong>Hyeonseok Jin</strong><sup>*</sup>, David J. Richter<sup>*</sup>, Kyungbaek Kim.</div>
-<div class="pub-venue"><em>The 14th International Conference on Smart Media & Applications</em> (SMA 2025), 2025.</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://doi.org/10.48550/arXiv.2507.11550">Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal Traffic Prediction</a></div>
-<div class="pub-authors"><strong>Hyeonseok Jin</strong>, Geonmin Kim, Kyungbaek Kim.</div>
-<div class="pub-venue"><em>arXiv prepreint</em>, 2025.</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2025.3573639">DATC-STP: Towards Accurate yet Efficient Spatiotemporal Prediction with Transformer-style CNN</a> [<strong style='color: blue'>SCIE</strong>]</div>
-<div class="pub-authors"><strong>Hyeonseok Jin</strong> and Kyungbaek Kim.</div>
-<div class="pub-venue"><em>IEEE Access</em>, 2025.</div>
-</div>
-
-</div>
-
 # Educations
 
 {: #educations .section-title .section-title-education}
@@ -181,6 +135,63 @@ redirect_from:
     <div class="date">2023.02 - 2024.05</div>
     <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. </div>
   </div>
+</div>
+
+# Publications
+
+{: #publications .section-title .section-title-publication}
+
+<p><sup>*</sup>: equal contribution.</p>
+
+<div class="publication-list">
+<!-- 
+<div class="pub-item">
+<div class="pub-title"><a href="https://arxiv.org/abs/2606.27499">DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection</a></div>
+<div class="pub-authors"><strong>Yujin Tang</strong>, Chenming Shang, Ruize Xu, Nikhil Singh.</div>
+<div class="pub-venue"><em>arXiv preprint</em>, 2026.</div>
+</div>
+<div class="pub-item">
+<div class="pub-title"><a href="https://arxiv.org/abs/2606.31050">Learning Video Dynamics with Predictive Differentiable Rendering</a></div>
+<div class="pub-authors"><strong>Yujin Tang</strong><sup>*</sup>, Tian Zhou<sup>*</sup>, Xin Lin, Cheng Tan, Yifan Hu, Rong Jin, Souyong Jin, Liang Sun.</div>
+<div class="pub-venue"><em>European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2026.</div>
+</div> -->
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2026.3650927">An Improved Small Defect Classification System Using Image Patching Methodology on Aluminum Car Doors</a></div>
+<div class="pub-authors">Ugur Ercelik, <strong>Hyeonseok Jin</strong>, Longfei Li, Kyungbaek Kim.</div>
+<div class="pub-venue"><em>IEEE Access</em>, 2026. [<strong style='color: blue'>SCIE</strong>]</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://doi.org/10.1177/20552076251393380">Enhancing deep learning models for predicting smoking status using clinical data in patients with chronic obstructive pulmonary disease</a></div>
+<div class="pub-authors">Sehun Cho, <strong>Hyeonseok Jin</strong>, Kyungbaek Kim, Sola Cho, Ja Yun Choi.</div>
+<div class="pub-venue"><em>Digital Health</em>, 2025.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2025.3623702">A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients With Chronic Obstructive Pulmonary Disease</a></div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong>, Ja Yun Choi, Sehyun Cho, Kyungbaek Kim.</div>
+<div class="pub-venue"><em>IEEE Access</em>, 2025. [<strong style='color: blue'>SCIE</strong>]</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://scholar.google.com/scholar?oi=bibs&cluster=791506653268956817&btnI=1&hl=ko">A Study of Leaf Disease Classification via Token-guided GNN</a></div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong><sup>*</sup>, David J. Richter<sup>*</sup>, Kyungbaek Kim.</div>
+<div class="pub-venue"><em>The 14th International Conference on Smart Media & Applications</em> (SMA 2025), 2025.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://doi.org/10.48550/arXiv.2507.11550">Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal Traffic Prediction</a></div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong>, Geonmin Kim, Kyungbaek Kim.</div>
+<div class="pub-venue"><em>arXiv prepreint</em>, 2025.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2025.3573639">DATC-STP: Towards Accurate yet Efficient Spatiotemporal Prediction with Transformer-style CNN</a></div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong> and Kyungbaek Kim.</div>
+<div class="pub-venue"><em>IEEE Access</em>, 2025. [<strong style='color: blue'>SCIE</strong>]</div>
+</div>
+
 </div>
 
 <!-- # Academic Service
