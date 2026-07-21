@@ -69,7 +69,7 @@ redirect_from:
   <div class="content">
     <div class="title">Korea Institute of Energy Technology (KENTECH)</div>
     <div class="subtitle">Ph.D. in Energy AI</div>
-    <div class="date">2025.09 - Present</div>
+    <div class="date">2026.03 - Present</div>
     <div class="description">Advised by Prof. <a href="https://scholar.google.co.kr/citations?user=MP9FW-YAAAAJ&hl=en">Seokju Lee</a>, <a href="https://view.kentech.ac.kr/">View Lab</a></div>
   </div>
 </div>
@@ -97,11 +97,11 @@ redirect_from:
   </div>
 </div>
 
-# Internships
+# Work Experience
 
-{: #internships .section-title .section-title-internship}
+{: #workexperiences .section-title .section-title-workexperience}
 
-<div class="internship-item highlight">
+<!-- <div class="internship-item highlight">
   <div class="logo-container">
     <img src="images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" loading="lazy">
   </div>
@@ -111,29 +111,29 @@ redirect_from:
     <div class="date">2025.03 - 2025.07</div>
     <div class="description">Research intern for 5 wonderful months. Working on cutting-edge AI research and development. Mentored by Dr. <a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a> and Dr. <a href="https://scholar.google.com/citations?user=D_cOMBgAAAAJ&hl=en">Liang Sun</a></div>
   </div>
+</div> -->
+
+<div class="internship-item">
+  <div class="logo-container">
+    <img src="images/KENTECH_logo.svg" alt="KENTECH Logo" loading="lazy">
+  </div>
+  <div class="content">
+    <div class="title">Korea Institute of Energy Technology (KENTECH)</div>
+    <div class="subtitle">Research Intern @ View Lab</div>
+    <div class="date">2025.09 - 2026.02</div>
+    <div class="description">Research on physics-aware video generation with Prof. <a href="https://scholar.google.co.kr/citations?user=MP9FW-YAAAAJ&hl=en">Seokju Lee</a>.</div>
+  </div>
 </div>
 
 <div class="internship-item">
   <div class="logo-container">
-    <img src="images/ucmerced-logo.png" alt="UC Merced Logo" loading="lazy">
+    <img src="images/Areum_logo.png" alt="AreumICT Logo" loading="lazy">
   </div>
   <div class="content">
-    <div class="title">UC Merced & Shanghai Jiao Tong University</div>
-    <div class="subtitle">Remote Visiting Student @ UC Merced & Onsite Visiting Student @ SJTU</div>
-    <div class="date">2024.06 - 2025.03</div>
-    <div class="description">Working with Prof. <a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a> at UC Merced, Prof. <a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a> at <a href="https://ai.sjtu.edu.cn">AI Institute, SJTU</a>, and Prof. <a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a> at WHU.</div>
-  </div>
-</div>
-
-<div class="internship-item">
-  <div class="logo-container">
-    <img src="images/hkust-gz-logo.png" alt="HKUST-GZ Logo" loading="lazy">
-  </div>
-  <div class="content">
-    <div class="title">The Hong Kong University of Science and Technology (Guangzhou)</div>
-    <div class="subtitle">Research Assistant at AI Thrust</div>
-    <div class="date">2023.02 - 2024.05</div>
-    <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. </div>
+    <div class="title">AREUM ICT Co., LTD</div>
+    <div class="subtitle">Staff @ Business Consulting & Data Team</div>
+    <div class="date">2023.04 - 2024.08</div>
+    <div class="description">Managing the <a href="https://aihub.or.kr/intrcn/safetyzoneintrcn.do?currMenu=306">Offline Safety Zone</a> in Gwangju, with a primary focus on validating research proposals, source code, and requested export data.</div>
   </div>
 </div>
 
@@ -165,7 +165,7 @@ redirect_from:
 <div class="pub-item">
 <div class="pub-title"><a href="https://doi.org/10.1177/20552076251393380">Enhancing deep learning models for predicting smoking status using clinical data in patients with chronic obstructive pulmonary disease</a></div>
 <div class="pub-authors">Sehun Cho, <strong>Hyeonseok Jin</strong>, Kyungbaek Kim, Sola Cho, Ja Yun Choi.</div>
-<div class="pub-venue"><em>Digital Health</em>, 2025.</div>
+<div class="pub-venue"><em>Digital Health</em>, 2025. [<strong style='color: blue'>SCIE</strong>]</div>
 </div>
 
 <div class="pub-item">
