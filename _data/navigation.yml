@@ -15,15 +15,15 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Academic Service"
-    url: "/#academic-service"
+  # - title: "Academic Service"
+  #   url: "/#academic-service"
 
-  - title: "Teaching"
-    url: "/#teaching"
+  # - title: "Teaching"
+  #   url: "/#teaching"
 
-  - title: "Resources"
-    url: "/#resources-for-cv-researchers"
+  # - title: "Resources"
+  #   url: "/#resources-for-cv-researchers"
 
-  - title: "Blog"
-    url: "https://jenny-blog-eight.vercel.app/"
-    external: true
+  # - title: "Blog"
+  #   url: "https://jenny-blog-eight.vercel.app/"
+  #   external: true
