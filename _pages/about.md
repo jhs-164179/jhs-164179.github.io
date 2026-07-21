@@ -16,19 +16,9 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 20 July 2026</em></p>
+<p><em>Last updated: July 2026</em></p>
 
-<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">Science and Art of Human-AI Systems (SAHAS) Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> (he's pretty nice) and work on the intersection of AI Agents and Multimodal Large Language Models.</p>
-
-<p>I worked as a research intern at Alibaba DAMO Academy, mentored by Dr. <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at UC Merced and Google DeepMind and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at Shanghai Jiao Tong University. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at TikTok, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, HKUST(GZ).</p>
-
-<p>My Ph.D. research interests lie in <strong>AI Agents</strong>:</p>
-
-<ul>
-<li>(1) agent memory mechanisms and architectures</li>
-<li>(2) multimodal learning and reasoning</li>
-<li>(3) long-horizon reasoning and decision-making</li>
-</ul>
+<p>Ph.D. candidate in Energy AI track at <strong><a href="https://www.kentech.ac.kr/">Korea Institute of Energy Technology (KENTECH)</a></strong>. I am currently enrolled as a graduate student at Vision intelligence, energy wise (View) Lab , advised by Prof. Seokju Lee. I received my B.S. degree in Computer Engineering and M.S. degree in AI Convergence from Chonnam National University, South Korea, in 2023 and 2025, respectively. My research interests include computer vision and applied AI, with a particular focus on video prediction and generation.</p>
 
 </div>
 
