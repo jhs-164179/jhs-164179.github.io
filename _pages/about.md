@@ -18,7 +18,7 @@ redirect_from:
 
 <p><em>Last updated: July 2026</em></p>
 
-<p>Ph.D. candidate in Energy AI track at <strong><a href="https://www.kentech.ac.kr/">Korea Institute of Energy Technology (KENTECH)</a></strong>. I am currently enrolled as a graduate student at Vision intelligence, energy wise (View) Lab , advised by Prof. Seokju Lee. I received my B.S. degree in Computer Engineering and M.S. degree in AI Convergence from Chonnam National University, South Korea, in 2023 and 2025, respectively. My research interests include computer vision and applied AI, with a particular focus on video prediction and generation.</p>
+<p>Ph.D. candidate in Energy AI track at <strong><a href="https://www.kentech.ac.kr/">Korea Institute of Energy Technology (KENTECH)</a></strong>. I am currently enrolled as a graduate student at Vision Intelligence, Energy Wise (VIEW) Lab , advised by Prof. Seokju Lee. I received my B.S. degree in Computer Engineering and M.S. degree in AI Convergence from Chonnam National University, South Korea, in 2023 and 2025, respectively. My research interests include computer vision and applied AI, with a particular focus on video prediction and generation.</p>
 
 </div>
 
@@ -33,7 +33,8 @@ redirect_from:
 
 <div class="news-scroll-container">
 <ul class="news-list">
-<li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a></li>
+<li><em>2026.07</em>:  🎉🎉 The homepage has been launched.</li>
+<!-- <li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a></li>
 <li><em>2026.06</em>:  🎉🎉 PDR / PredGS is accepted by ECCV 2026. <a href="https://arxiv.org/abs/2606.31050"><strong>Paper</strong></a></li>
 <li><em>2026.06</em>:  📄📄 Our <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series/blob/main/The%20Landscape%20of%20Agentic%20Time%20Series%20Systems.pdf">survey</a> <strong>The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers</strong> is released! See the PDF in the <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series">repository</a> <img src="https://img.shields.io/github/stars/TROUBADOUR000/Awesome-Agentic-Time-Series" alt="Stars">.</li>
 <li><em>2026.04</em>:  📚📚 Yujin created <a href="https://github.com/yyyujintang/Awesome-Agent-Memory-Papers">Awesome-Agent-Memory-Papers</a> <img src="https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers.svg" alt="Stars">, a curated list of papers on agent memory research. A companion <a href="https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/">website</a> provides organized and filterable browsing of the papers. Also synced to my <a href="https://jenny-blog-eight.vercel.app/">blog</a>. Hope it helps!</li>
@@ -44,7 +45,7 @@ redirect_from:
 <li><em>2024.10</em>:  🎉🎉 PredFormer is available! This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. <a href="https://arxiv.org/abs/2410.04733"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/PredFormer"><strong>Code</strong></a> <img src="https://img.shields.io/github/stars/yyyujintang/PredFormer" alt="Stars"></li>
 <li><em>2024.04</em>:  🎉🎉 VMRNN is accepted by CVPRW 2024.</li>
 <li><em>2024.03</em>:  🎉🎉 PostRainBench is accepted by ICLRW 2024.</li>
-<li><em>2024.01</em>:  🎉🎉 Yujin created Awesome-Mamba-Papers repository. <strong>This is the first Awesome Mamba repository and promotes Mamba related research</strong>. <a href="https://github.com/yyyujintang/Awesome-Mamba-Papers">Link</a> <img src="https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers" alt="Stars"></li>
+<li><em>2024.01</em>:  🎉🎉 Yujin created Awesome-Mamba-Papers repository. <strong>This is the first Awesome Mamba repository and promotes Mamba related research</strong>. <a href="https://github.com/yyyujintang/Awesome-Mamba-Papers">Link</a> <img src="https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers" alt="Stars"></li> -->
 </ul>
 </div>
 
@@ -60,7 +61,7 @@ redirect_from:
     <div class="title">Korea Institute of Energy Technology (KENTECH)</div>
     <div class="subtitle">Ph.D. in Energy AI</div>
     <div class="date">2026.03 - Present</div>
-    <div class="description">Advised by Prof. <a href="https://scholar.google.co.kr/citations?user=MP9FW-YAAAAJ&hl=en">Seokju Lee</a>, <a href="https://view.kentech.ac.kr/">View Lab</a></div>
+    <div class="description">Advised by Prof. <a href="https://scholar.google.co.kr/citations?user=MP9FW-YAAAAJ&hl=en">Seokju Lee</a>, <a href="https://view.kentech.ac.kr/">VIEW Lab</a></div>
   </div>
 </div>
 
@@ -110,7 +111,7 @@ redirect_from:
   </div>
   <div class="content">
     <div class="title">Korea Institute of Energy Technology (KENTECH)</div>
-    <div class="subtitle">Research Intern @ View Lab</div>
+    <div class="subtitle">Research Intern @ VIEW Lab</div>
     <div class="date">2025.09 - 2026.02</div>
     <div class="description">Research on physics-aware video generation with Prof. <a href="https://scholar.google.co.kr/citations?user=MP9FW-YAAAAJ&hl=en">Seokju Lee</a>.</div>
   </div>
