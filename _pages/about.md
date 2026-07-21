@@ -99,7 +99,8 @@ redirect_from:
 
 # Work Experience
 
-{: #workexperiences .section-title .section-title-workexperience}
+{: #internships .section-title .section-title-internship}
+
 
 <!-- <div class="internship-item highlight">
   <div class="logo-container">
