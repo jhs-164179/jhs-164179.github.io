@@ -99,8 +99,8 @@ redirect_from:
 
 # Work Experience
 
-{: #internships .section-title .section-title-internship}
-
+<!-- {: #internships .section-title .section-title-work} -->
+<div id='work-experience'></div>
 
 <!-- <div class="internship-item highlight">
   <div class="logo-container">
