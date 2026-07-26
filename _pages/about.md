@@ -125,7 +125,7 @@ redirect_from:
     <div class="title">AREUM ICT Co., LTD</div>
     <div class="subtitle">Staff @ Business Consulting & Data Team</div>
     <div class="date">2023.04 - 2024.08</div>
-    <div class="description">Managing the <a href="https://aihub.or.kr/intrcn/safetyzoneintrcn.do?currMenu=306">Offline Safety Zone</a> in Gwangju, with a primary focus on validating research proposals, source code, and requested export data.</div>
+    <div class="description">Manage <a href="https://aihub.or.kr/intrcn/safetyzoneintrcn.do?currMenu=306">Offline Safety Zone</a> in Gwangju, with a primary focus on validate research proposals, source code, and requested export data.</div>
   </div>
 </div>
 
