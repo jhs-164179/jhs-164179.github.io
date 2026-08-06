@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: July 2026</em></p>
+<p><strong><a href="files/CV_hyeonseokjin.pdf">Download CV</a></strong> <em>Last updated: July 2026</em></p>
 
 <p>Ph.D. candidate in Energy AI track at <strong><a href="https://www.kentech.ac.kr/">Korea Institute of Energy Technology (KENTECH)</a></strong>. I am currently enrolled as a graduate student at Vision Intelligence, Energy Wise (VIEW) Lab , advised by Prof. Seokju Lee. I received my B.S. degree in Computer Engineering and M.S. degree in AI Convergence from Chonnam National University, South Korea, in 2023 and 2025, respectively. My research interests include computer vision and applied AI, with a particular focus on video prediction and generation.</p>
 
@@ -161,7 +161,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2025.3623702">A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients With Chronic Obstructive Pulmonary Disease</a></div>
+<div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2025.3623702">A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients With Chronic Obstructive Pulmonary Disease: A Secondary Analysis</a></div>
 <div class="pub-authors"><strong>Hyeonseok Jin</strong>, Ja Yun Choi, Sehyun Cho, Kyungbaek Kim.</div>
 <div class="pub-venue"><em>IEEE Access</em>, 2025. [<strong style='color: blue'>SCIE</strong>]</div>
 </div>
