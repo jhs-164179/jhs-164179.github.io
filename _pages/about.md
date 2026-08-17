@@ -53,8 +53,7 @@ redirect_from:
 
 {: #educations .section-title .section-title-education}
 
-<!-- <div class="education-item"> -->
-<div class="internship-item highlight">
+<div class="education-item">
   <div class="logo-container">
     <img src="images/KENTECH_logo.svg" alt="KENTECH Logo" loading="lazy">
   </div>

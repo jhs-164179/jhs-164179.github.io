@@ -431,10 +431,10 @@ h1:before, .anchor:before {
     border-left-color: #ff6a00;
     box-shadow: 0 2px 8px rgba(255, 106, 0, 0.12);
     
-    // .logo-container {
-    //     border-color: #ff6a00;
-    //     background: linear-gradient(135deg, #fff8f0 0%, #fff5eb 100%);
-    // }
+    .logo-container {
+        border-color: #ff6a00;
+        background: linear-gradient(135deg, #fff8f0 0%, #fff5eb 100%);
+    }
     
     &:hover {
         box-shadow: 0 3px 10px rgba(255, 106, 0, 0.2);
