@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <div id='about-me'>
 
-<p><strong><a href="files/CV_hyeonseokjin.pdf">Download CV</a></strong> <em>Last updated: July 2026</em></p>
+<p><strong><a href="files/CV_hyeonseokjin.pdf">Download CV</a></strong> <em>(Last updated: July 2026)</em></p>
 
 <p>Ph.D. candidate in Energy AI track at <strong><a href="https://www.kentech.ac.kr/">Korea Institute of Energy Technology (KENTECH)</a></strong>. I am currently enrolled as a graduate student at Vision Intelligence, Energy Wise (VIEW) Lab , advised by Prof. Seokju Lee. I received my B.S. degree in Computer Engineering and M.S. degree in AI Convergence from Chonnam National University, South Korea, in 2023 and 2025, respectively. My research interests include computer vision and applied AI, with a particular focus on video prediction and generation.</p>
 
