@@ -53,7 +53,8 @@ redirect_from:
 
 {: #educations .section-title .section-title-education}
 
-<div class="education-item">
+<!-- <div class="education-item"> -->
+<div class="internship-item highlight">
   <div class="logo-container">
     <img src="images/KENTECH_logo.svg" alt="KENTECH Logo" loading="lazy">
   </div>
@@ -156,7 +157,7 @@ redirect_from:
 
 <div class="pub-item">
 <div class="pub-title"><a href="https://doi.org/10.1177/20552076251393380">Enhancing deep learning models for predicting smoking status using clinical data in patients with chronic obstructive pulmonary disease</a></div>
-<div class="pub-authors">Sehun Cho, <strong>Hyeonseok Jin</strong>, Kyungbaek Kim, Sola Cho, Ja Yun Choi.</div>
+<div class="pub-authors">Sehyun Cho, <strong>Hyeonseok Jin</strong>, Kyungbaek Kim, Sola Cho, Ja Yun Choi.</div>
 <div class="pub-venue"><em>Digital Health</em>, 2025. [<strong style='color: blue'>SCIE</strong>]</div>
 </div>
 
