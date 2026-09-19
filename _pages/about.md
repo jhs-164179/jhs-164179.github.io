@@ -33,6 +33,7 @@ redirect_from:
 
 <div class="news-scroll-container">
 <ul class="news-list">
+<li><em>2026.09</em>:  🎉🎉 One paper has been accepted for the Space Robotics Workshop at IROS 2026.</li>
 <li><em>2026.07</em>:  🎉🎉 The homepage has been launched.</li>
 <!-- <li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a></li>
 <li><em>2026.06</em>:  🎉🎉 PDR / PredGS is accepted by ECCV 2026. <a href="https://arxiv.org/abs/2606.31050"><strong>Paper</strong></a></li>
@@ -149,6 +150,12 @@ redirect_from:
 </div> -->
 
 <div class="pub-item">
+<div class="pub-title"><a href="https://space-robots.org/events/iros2026/">Design of a Compact Dual-Sided Rover with Hybrid Compliance for Planetary Exploration</a></div>
+<div class="pub-authors">Junseo Moon, Hyunsung Kim, Minseok Song, Sunwoo Mun, <strong>Hyeonseok Jin</strong>, Seokju Lee.</div>
+<div class="pub-venue"><em>IROS Space Robotics Workshop: Space Exploration and Sustained Operations Beyond Earth</em> (<strong>IROSw</strong>), 2026.</div>
+</div>
+
+<div class="pub-item">
 <div class="pub-title"><a href="https://doi.org/10.1109/ACCESS.2026.3650927">An Improved Small Defect Classification System Using Image Patching Methodology on Aluminum Car Doors</a></div>
 <div class="pub-authors">Ugur Ercelik, <strong>Hyeonseok Jin</strong>, Longfei Li, Kyungbaek Kim.</div>
 <div class="pub-venue"><em>IEEE Access</em>, 2026. [<strong style='color: blue'>SCIE</strong>]</div>
@@ -169,7 +176,7 @@ redirect_from:
 <div class="pub-item">
 <div class="pub-title"><a href="https://scholar.google.com/scholar?oi=bibs&cluster=791506653268956817&btnI=1&hl=ko">A Study of Leaf Disease Classification via Token-guided GNN</a></div>
 <div class="pub-authors"><strong>Hyeonseok Jin</strong><sup>*</sup>, David J. Richter<sup>*</sup>, Kyungbaek Kim.</div>
-<div class="pub-venue"><em>The 14th International Conference on Smart Media & Applications</em> (SMA 2025), 2025.</div>
+<div class="pub-venue"><em>International Conference on Smart Media & Applications</em> (SMA), 2025.</div>
 </div>
 
 <div class="pub-item">
