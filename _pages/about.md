@@ -152,7 +152,7 @@ redirect_from:
 <div class="pub-item">
 <div class="pub-title"><a href="https://space-robots.org/events/iros2026/">Design of a Compact Dual-Sided Rover with Hybrid Compliance for Planetary Exploration</a></div>
 <div class="pub-authors">Junseo Moon, Hyunsung Kim, Minseok Song, Sunwoo Mun, <strong>Hyeonseok Jin</strong>, Seokju Lee.</div>
-<div class="pub-venue"><em>IROS Space Robotics Workshop: Space Exploration and Sustained Operations Beyond Earth</em> (<strong>IROSw</strong>), 2026.</div>
+<div class="pub-venue"><em>IROS Space Robotics Workshop: Space Exploration and Sustained Operations Beyond Earth</em> (IROSw), 2026.</div>
 </div>
 
 <div class="pub-item">
