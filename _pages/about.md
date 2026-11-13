@@ -198,10 +198,35 @@ redirect_from:
 
 </div>
 
-# Patents \& Software Registrations
+# Patents & Software Registrations
 
 {: #patents .section-title .section-title-publication}
 <div id='patents'></div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://doi.org/10.8080/1020250207876">TRAFFIC VOLUME PREDICTION APPARATUS AND METHOD USING A CONVOLUTION-BASED SPATIOTEMPORAL NEURAL NETWORK WITH A TRANSFORMER ARCHITECTURE</a></div>
+<div class="pub-authors"><strong>Hyeonseok Jin</strong> and Kyungbaek Kim</div>
+<div class="pub-venue"><em>KR Patent</em>, 10-3045957, 2026</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">Artificial Intelligence Training and Inference Software for Predicting Patient Exercise Status</div>
+<div class="pub-authors">Kyungbaek Kim, <strong>Hyeonseok Jin</strong>, and Jisoo Shin</div>
+<div class="pub-venue"><em>KR Software Registration</em>, C-2025-053828, 2025</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">Solar Power Generation Prediction Web Service Based on a Hybrid Time-Series Artificial Intelligence Model</div>
+<div class="pub-authors">Kyungbaek Kim, David J. Richter, and <strong>Hyeonseok Jin</strong></div>
+<div class="pub-venue"><em>KR Software Registration</em>, C-2025-053827, 2025</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">Traffic Data Transformation and Analysis Program Based on a Spatiotemporal Prediction Deep Learning Model</div>
+<div class="pub-authors">Kyungbaek Kim and <strong>Hyeonseok Jin</strong></div>
+<div class="pub-venue"><em>KR Software Registration</em>, C-2025-053826, 2025</div>
+</div>
+
 
 <!-- # Academic Service
 
