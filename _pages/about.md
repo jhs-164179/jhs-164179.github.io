@@ -198,6 +198,11 @@ redirect_from:
 
 </div>
 
+# Patents \& Software Registrations
+
+{: #patents .section-title .section-title-publication}
+<div id='patents'></div>
+
 <!-- # Academic Service
 
 {: #academic-service .section-title .section-title-service}
