@@ -33,6 +33,7 @@ redirect_from:
 
 <div class="news-scroll-container">
 <ul class="news-list">
+<li><em>2026.11</em>: &nbsp;🎉🎉 One KR patent on spatiotemporal traffic volume prediction has been granted.</li>
 <li><em>2026.09</em>:  🎉🎉 One paper has been accepted for the Space Robotics Workshop at IROS 2026.</li>
 <li><em>2026.07</em>:  🎉🎉 The homepage has been launched.</li>
 <!-- <li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a></li>
